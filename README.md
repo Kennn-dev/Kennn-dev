@@ -27,7 +27,7 @@ I'm Vo Phu Hoang Nhat aka Ken
 
 <a href="https://github.com/Kennn-dev" >
   <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kennn-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" align="left"/>
- <img  align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kennn-dev&layout=compact&langs_count=8&theme=algolia"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kennn-dev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
 
