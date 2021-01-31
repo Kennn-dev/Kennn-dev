@@ -22,6 +22,7 @@ I'm Vo Phu Hoang Nhat aka Ken
 ![Illustrator](https://img.shields.io/badge/-illustrator-FF4500?logo=adobe-illustrator&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-696969?logo=figma&logoColor=white&style=flat)
 ### &nbsp;My Projects 💎
+- Employee Manage System : https://github.com/Kennn-dev/Employee-Manage-System
 
 ### &nbsp;GitHub Analytics ⌛
 
