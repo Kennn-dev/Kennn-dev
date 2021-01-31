@@ -3,6 +3,10 @@ I'm Vo Phu Hoang Nhat aka Ken
 
 <img alt="meme" height="180em" src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" align="right"/>
 
+### &nbsp; Studying at Hutech University 👨‍🎓
+- Code and Design 🎨
+- I’m currently learning everything about Frontend and Backend technologies too 😅
+
 ### &nbsp;Tech im learned ⚙
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-Javascript-FFA500?logo=javascript&logoColor=white&style=flat)
