@@ -1,5 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## I'm Vo Phu Hoang Nhat aka Ken
+I'm Vo Phu Hoang Nhat aka Ken
 
 <img alt="meme" height="180em" src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" align="right"/>
 
@@ -20,3 +20,9 @@
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kennn-dev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### &nbsp;About me 🙆‍♂️
+<a href="mailto:nhatong2015@gmail.com"><img src="https://img.shields.io/badge/-nhatong2015@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/kenart_1012"><img src="https://img.shields.io/badge/-@kenart_1012-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/Ken.deep.try.20"><img src="https://img.shields.io/badge/-Nhật Ken-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://dribbble.com/nhat_2t"><img src="https://img.shields.io/badge/-Kennn-1877F2?style=flat&logo=Dribbble&logoColor=white"/></a>
