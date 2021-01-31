@@ -7,9 +7,6 @@ I'm Vo Phu Hoang Nhat aka Ken
 - Code and Design 🎨
 - I’m currently learning everything about Frontend and Backend technologies too 😅
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.kennn-dev.vercel.app/api/spotify)](https://open.spotify.com/user/21ri3g7jfs3i7nsfeofondtrq?si=CZLTbiVzQt2Pw-6BEPdgXw)
 
 ### &nbsp;Tech im learned ⚙
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
@@ -22,12 +19,10 @@ I'm Vo Phu Hoang Nhat aka Ken
 
 ### &nbsp;GitHub Analytics ⌛
 
-<p align="center">
 <a href="https://github.com/Kennn-dev" >
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kennn-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" align="left"/>
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kennn-dev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
 
 ### &nbsp;About me 🙆‍♂️
 <a href="mailto:nhatong2015@gmail.com"><img src="https://img.shields.io/badge/-nhatong2015@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
