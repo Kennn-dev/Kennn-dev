@@ -23,6 +23,7 @@ I'm Vo Phu Hoang Nhat aka Ken
 ![Figma](https://img.shields.io/badge/-Figma-696969?logo=figma&logoColor=white&style=flat)
 ### &nbsp;My Projects 💎
 - Employee Manage System : https://github.com/Kennn-dev/Employee-Manage-System
+- Simple Discord bot : https://github.com/Kennn-dev/discord-bot
 
 ### &nbsp;GitHub Analytics ⌛
 
