@@ -4,6 +4,7 @@ I'm Vo Phu Hoang Nhat aka Ken
 <img alt="meme" height="180em" src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" align="right"/>
 
 ### &nbsp; Studying at Hutech University 👨‍🎓
+- Checkout my Portfolio : https://kennnn-portfolio.netlify.app/ 🔥🔥🔥
 - Code and Design 🎨
 - I’m currently learning everything about Frontend and Backend technologies too 😅
 
@@ -23,7 +24,7 @@ I'm Vo Phu Hoang Nhat aka Ken
 ![Figma](https://img.shields.io/badge/-Figma-696969?logo=figma&logoColor=white&style=flat)
 ### &nbsp;My Projects 💎
 - Employee Manage System : https://github.com/Kennn-dev/Employee-Manage-System
-- Simple Discord bot : https://github.com/Kennn-dev/discord-bot
+- Simple Discord bot for my Server : https://github.com/Kennn-dev/discord-bot
 
 ### &nbsp;GitHub Analytics ⌛
 
