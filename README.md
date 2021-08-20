@@ -12,7 +12,6 @@ I'm Vo Phu Hoang Nhat aka Ken
 <a href="mailto:nhatong2015@gmail.com"><img src="https://img.shields.io/badge/-nhatong2015@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/kenart_1012"><img src="https://img.shields.io/badge/-@kenart_1012-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/Ken.deep.try.20"><img src="https://img.shields.io/badge/-Nhật Ken-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://dribbble.com/nhat_2t"><img src="https://img.shields.io/badge/-Kennn-1877F2?style=flat&logo=Dribbble&logoColor=white"/></a>
 <a href="https://www.behance.net/kennnnnn"><img src="https://img.shields.io/badge/-Kennn-1877F2?style=flat&logo=Behance&logoColor=white"/></a>
 
 
