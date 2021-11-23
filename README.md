@@ -15,7 +15,7 @@ I'm Vo Phu Hoang Nhat aka Ken
 <a href="https://www.behance.net/kennnnnn"><img src="https://img.shields.io/badge/-Kennn-1877F2?style=flat&logo=Behance&logoColor=white"/></a>
 
 
-### &nbsp;Tech im learned ⚙
+### &nbsp;Tech im learning ⚙
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-Javascript-FFA500?logo=javascript&logoColor=white&style=flat)
 ![HTML](https://img.shields.io/badge/-HTML-FF6347?logo=html5&logoColor=white&style=flat)
