@@ -22,10 +22,11 @@ I'm Vo Phu Hoang Nhat aka Ken
 ![CSS](https://img.shields.io/badge/-CSS-00CED1?logo=css3&logoColor=white&style=flat)
 ![Illustrator](https://img.shields.io/badge/-illustrator-FF4500?logo=adobe-illustrator&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-696969?logo=figma&logoColor=white&style=flat)
-### &nbsp;My Projects 💎
+### &nbsp;Pet Projects 💎
 - Ecommerce Website : http://cartya-app.netlify.app/ ( Not available at the 20th day every months )
 - Employee Manage System : https://github.com/Kennn-dev/Employee-Manage-System
 - Simple Discord bot for my Server : https://github.com/Kennn-dev/discord-bot
+- Anime Website Nextjs : https://anime-world.vercel.app/
 
 ### &nbsp;GitHub Analytics ⌛
 
